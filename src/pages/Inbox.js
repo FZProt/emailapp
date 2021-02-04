@@ -42,27 +42,27 @@ function Home() {
           <Feed.Content>
             <Feed.Date content='1 day ago' />
             <Feed.Summary>
-              You added <a>Jenny Hess</a> to your <a>coworker</a> group.
+              Last Chance to start
             </Feed.Summary>
           </Feed.Content>
         </Feed.Event>
 
         <Feed.Event>
-          <Feed.Label image='/images/avatar/small/molly.png' />
+          <Feed.Label image='../images/Image.png' />
           <Feed.Content>
-            <Feed.Date content='3 days ago' />
+            <Feed.Date content='1 day ago' />
             <Feed.Summary>
-              You added <a>Molly Malone</a> as a friend.
+              Last Chance to start
             </Feed.Summary>
           </Feed.Content>
         </Feed.Event>
 
         <Feed.Event>
-          <Feed.Label image='/images/avatar/small/elliot.jpg' />
+          <Feed.Label image='../images/Image.png' />
           <Feed.Content>
-            <Feed.Date content='4 days ago' />
+            <Feed.Date content='1 day ago' />
             <Feed.Summary>
-              You added <a>Elliot Baker</a> to your <a>musicians</a> group.
+              Last Chance to start
             </Feed.Summary>
           </Feed.Content>
         </Feed.Event>
