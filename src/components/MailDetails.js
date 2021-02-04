@@ -3,7 +3,7 @@ import React from "react";
 const maildetails = () => {
   return (
     <div>
-      <p>msg</p>
+      <img></img>
     </div>
   );
 };
