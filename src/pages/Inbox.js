@@ -28,7 +28,7 @@ function Home() {
       </div>
 
       <div>
-        <SplitPane split="vertical" minSize={50} defaultSize={100}>
+        <SplitPane split="vertical" minSize={150} defaultSize={200}>
         <div>
           
           <Card>
